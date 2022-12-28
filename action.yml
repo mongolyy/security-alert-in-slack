@@ -1,6 +1,6 @@
-name: 'mongolyy'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'github-vulnerability-alert-list'
+description: 'Get github vulnerability alerts'
+author: 'mongolyy'
 inputs:
   milliseconds: # change this
     required: true
